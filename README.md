@@ -1,19 +1,19 @@
-# Waypoint legal pages
+# Beaconhearth legal pages
 
-Public Privacy Policy and Terms of Use for store listings. This repo is **public on purpose**. The Waypoint app repo stays private.
+Public Privacy Policy and Terms of Use for store listings. This repo is **public on purpose**. The Beaconhearth app repo stays private.
 
 After GitHub Pages is on (`main`, folder `/`):
 
-- https://zeejay321.github.io/waypoint-legal/privacy/
-- https://zeejay321.github.io/waypoint-legal/terms/
+- https://zeejay321.github.io/beaconhearth-legal/privacy/
+- https://zeejay321.github.io/beaconhearth-legal/terms/
 
 ## Enable Pages
 
-1. Create a **public** GitHub repo named `waypoint-legal` under the same account as the app (`ZeeJay321`).
+1. Create a **public** GitHub repo named `beaconhearth-legal` under the same account as the app (`ZeeJay321`).
 2. Push this folder:
 
 ```bash
-git remote add origin https://github.com/ZeeJay321/waypoint-legal.git
+git remote add origin https://github.com/ZeeJay321/beaconhearth-legal.git
 git push -u origin main
 ```
 

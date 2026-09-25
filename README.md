@@ -1,4 +1,4 @@
-# Path Guard legal pages
+# PathGuard legal pages
 
 Public Privacy Policy and Terms of Use for store listings. This repo is **public on purpose**. The app repo is [ZeeJay321/Pathguard](https://github.com/ZeeJay321/Pathguard) (private).
 
